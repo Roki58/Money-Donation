@@ -1,0 +1,13 @@
+.welcome{
+    background-image: url('https://cdna.artstation.com/p/assets/images/images/037/831/230/large/bl-gamer-mbstu-cafetaria-central-library-photos-2021-1.jpg?1621436013');
+    background-size: cover;
+    background-position: 0%;
+    background-repeat: no-repeat;
+    height:100vh
+}
+.box{
+    height: 200px;
+    width: auto;
+    background-color: white;
+    color:black;
+}
